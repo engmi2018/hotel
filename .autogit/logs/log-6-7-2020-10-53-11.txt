@@ -1,0 +1,16 @@
+-------------------- Auto-Git Log --------------------
+		Thu Aug 06 2020 10:53:11 GMT+0100 (British Summer Time)
+------------------------------------------------------
+
+Modified files:
+
+
+Created files:
+* .autogit/logs/log-6-7-2020-0-33-34.txt
+
+
+Deleted files:
+* src/Contentful.js
+
+
+Renamed files:
